@@ -45,6 +45,10 @@ nav{
     
 }
 
+#links a:hover{
+    color:greenyellow;
+}
+
 @media only screen and (max-width: 480px){
 
     #links{
@@ -147,6 +151,12 @@ nav{
 
 }
 
+.lines img:hover{
+    width: 10.3rem;
+    height: 10.3rem;
+    border: 0.125rem solid darkgreen;
+}
+
 figcaption{
     text-align: center;
     font-weight: 600;
@@ -159,6 +169,8 @@ figcaption{
         
     }
 }
+
+
 
     
 
